@@ -1,0 +1,31 @@
+table{
+   /* background-color: wheat;*/
+  
+}
+h1{
+    color: indianred;
+    margin-left: 160px;
+    
+}
+h3{
+    color: lightcoral;
+    margin-left: 190px;
+    
+}
+#container{
+    /*display: inline-block;*/
+    background-color: wheat;
+    
+    background-attachment: fixed;
+    border: 2px solid red;
+    width: 650px;
+    border-radius: 22px;
+    
+    
+    
+}
+.che{
+    color: red;
+    
+   
+}
